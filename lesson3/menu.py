@@ -55,5 +55,13 @@ print(math.ceil(gpa))
 print(math.floor(gpa))
 
 
+#casting a string into a number
+zipcode = "10001"
+zip_value = int(zipcode)
+print(zip_value)
+
+#if you try to cast a string into an integer it will not be possible
+
+
 
 
